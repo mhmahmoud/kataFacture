@@ -1,0 +1,6 @@
+com\metier\MedicamentsAndAliments.class
+com\metier\FactureMetier.class
+com\metier\AutresProduits.class
+com\metier\Livres.class
+com\metier\IFactureMetier.class
+com\metier\Produit.class
